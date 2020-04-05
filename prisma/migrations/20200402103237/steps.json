@@ -1,0 +1,29 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "tag": "UpdateField",
+      "model": "PostToCategory",
+      "field": "post",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "PostToCategory",
+      "field": "postId",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "PostToCategory",
+      "field": "category",
+      "arity": "Optional"
+    },
+    {
+      "tag": "UpdateField",
+      "model": "PostToCategory",
+      "field": "categoryId",
+      "arity": "Optional"
+    }
+  ]
+}
